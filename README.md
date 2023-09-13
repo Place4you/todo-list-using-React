@@ -10,7 +10,7 @@ The project demonstrates the fundamental concepts of React, including component 
 
 ## Live Demo
 
-You can access a live demo of this Todo List app by following this link: [Todo List Demo]([https://example.com](https://saadattodolist.netlify.app/)])
+You can access a live demo of this Todo List app by following this link: [Todo List Demo](https://saadattodolist.netlify.app/))
 
 ## Features
 

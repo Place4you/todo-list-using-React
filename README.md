@@ -10,7 +10,7 @@ The project demonstrates the fundamental concepts of React, including component 
 
 ## Live Demo
 
-You can access a live demo of this Todo List app by following this link: [Todo List Demo](https://example.com)
+You can access a live demo of this Todo List app by following this link: [Todo List Demo]([https://example.com](https://saadattodolist.netlify.app/))
 
 ## Features
 
@@ -22,9 +22,8 @@ You can access a live demo of this Todo List app by following this link: [Todo L
 ## Technologies Used
 
 - React: The core library used for building the user interface and managing state.
-- HTML/CSS: Used for structuring the app and styling the components.
+- HTML/TailWind: Used for structuring the app and styling the components.
 - JavaScript: Used for logic and event handling.
-- [React Icons](https://react-icons.github.io/react-icons/): Used to incorporate icons for a better user experience.
 
 ## Getting Started
 
@@ -62,10 +61,12 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!  
 
-## Deploy on Vercel
+##Contributing
+If you have suggestions for improvements or spot any issues, please feel free to create an issue or submit a pull request. Contributions are welcome!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for checking out the Todo List using React/Next.js project! We hope it helps you learn and explore React development.

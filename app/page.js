@@ -52,8 +52,8 @@ const page = () => {
     <>
       <h1 className='p-8 text-5xl   font-bold  text-center text-white  bg-blue-950 center'>Saadat Todo List Project</h1>
 
-    <form onSubmit={Submitted}>
-      <input className="mt-8 ml-10  p-2 text-2xl border-blue-400 border-4 rounded text-black  placeholder-grey"
+    <form className='flex justify-center items-center' onSubmit={Submitted}>
+      <input className="m-8   p-2 text-2xl border-blue-400 border-4 rounded text-black  placeholder-grey"
       type='text' 
       required
       placeholder="Enter Task Name" 
@@ -71,7 +71,6 @@ const page = () => {
           setdesc(e.target.value)
 
         }}/>
-
         <button className='m-8  p-2  rounded text-3xl text-white font-extrabold bg-blue-500  '>Add Task</button>
     </form>
         {/* <div className=' bg-blue-400 w-full'>  */}
